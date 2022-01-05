@@ -1,0 +1,15 @@
+1. Instalar git y configurar
+- descargar de https://git-scm.com/
+- configurar
+    > git config --global user.name "fzeballos"
+    > git config --global user.email fernando.zeballos.o@gmail.com
+----------------COMANDOS---------------
+2.1 Clonar el repositorio (si ya existe)
+    > git clone url_remota 
+
+2.2 Iniciar un nuevo repositorio (si no existe)
+    > git init
+
+3. Crear un archivo .gitignore  para ignorar carpetas o archivos
+
+4. Crar archivo (README.md) descripcion del proyecto
